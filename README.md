@@ -23,3 +23,6 @@ Coin Flipper has a variety of fun and interactive commands that can keep your se
 - [Terms of Service](https://docs.google.com/document/u/1/d/e/2PACX-1vQ9EViimpS6qH_KSf2qHaTs9iyXUs7COOJ9EI1HU9MoSLKeF8xT9k1SZ2pjj2dFhB5wJDUDG-Ih6v02/pub)
 - [Privacy Policy](https://docs.google.com/document/d/e/2PACX-1vTVHe_DQJEgS1fB6qR_riIiZ0thWXg091SckWnqhd75tk1SHLDJ_iOgqMCLP9FpBNZv-CV0V_k7l9yH/pub)
 - [GitHub Repo](https://github.com/Coin-Flipper/Coin-Flipper)
+
+### Testing
+This co author commits
