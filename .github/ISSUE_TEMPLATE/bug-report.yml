@@ -8,7 +8,6 @@ body:
 			description: A clear and concise description of what the bug is.
 		validations:
 			required: true
-
 	- type: textarea
 		attributes:
 			label: Steps To Reproduce
@@ -20,14 +19,12 @@ body:
 				4. See the error
 		validations:
 			required: true
-
 	- type: textarea
 		attributes:
 			label: Expected behavior
 			description: A clear and concise description of what you expected to happen.
 		validations:
 			required: true
-
 	- type: input
 		id: browser-version
 		attributes:
@@ -36,7 +33,6 @@ body:
 			placeholder: "e.g. Brave v 1.39.111"
 		validations:
 			required: true
-
 	- type: input
 		attributes:
 			label: Device Version
@@ -44,7 +40,6 @@ body:
 			placeholder: e.g. Windows 11 21H2 22000.194
 		validations:
 			required: true
-
 	- type: textarea
 		attributes:
 			label: Relevant Assets/Logs
